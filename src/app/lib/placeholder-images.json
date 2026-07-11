@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-medical",
+      "description": "Abstract medical science concept",
+      "imageUrl": "https://picsum.photos/seed/med1/1200/800",
+      "imageHint": "medical science"
+    },
+    {
+      "id": "dashboard-preview",
+      "description": "Clean medical dashboard interface",
+      "imageUrl": "https://picsum.photos/seed/med2/800/600",
+      "imageHint": "dashboard medical"
+    },
+    {
+      "id": "ai-analysis",
+      "description": "Artificial intelligence analyzing data",
+      "imageUrl": "https://picsum.photos/seed/med3/600/400",
+      "imageHint": "ai analysis"
+    }
+  ]
+}
